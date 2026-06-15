@@ -1,0 +1,1108 @@
+{
+ "generated": "2026-06-12",
+ "summary": {
+  "vehicles": 22,
+  "readings": 9398,
+  "total_fuel_l": 29922.3,
+  "km_range": 128122.0,
+  "fleet_on_time_pct": 85.5
+ },
+ "vehicles": [
+  {
+   "vehicle_id": "VAN-101",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2023,
+   "vehicle_type": "cargo_van",
+   "region": "Mississauga",
+   "driver_name": "Y. Osei"
+  },
+  {
+   "vehicle_id": "VAN-102",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2024,
+   "vehicle_type": "cargo_van",
+   "region": "Downtown Toronto",
+   "driver_name": "P. Nguyen"
+  },
+  {
+   "vehicle_id": "VAN-103",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2018,
+   "vehicle_type": "cargo_van",
+   "region": "Scarborough",
+   "driver_name": "A. Okafor"
+  },
+  {
+   "vehicle_id": "VAN-104",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2022,
+   "vehicle_type": "cargo_van",
+   "region": "North York",
+   "driver_name": "R. Boateng"
+  },
+  {
+   "vehicle_id": "VAN-105",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2022,
+   "vehicle_type": "cargo_van",
+   "region": "Scarborough",
+   "driver_name": "L. Fernandez"
+  },
+  {
+   "vehicle_id": "VAN-106",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2024,
+   "vehicle_type": "cargo_van",
+   "region": "Mississauga",
+   "driver_name": "G. Almeida"
+  },
+  {
+   "vehicle_id": "VAN-107",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2023,
+   "vehicle_type": "cargo_van",
+   "region": "Mississauga",
+   "driver_name": "S. Kowalski"
+  },
+  {
+   "vehicle_id": "VAN-108",
+   "make": "Ford",
+   "model": "Transit 250",
+   "year": 2019,
+   "vehicle_type": "cargo_van",
+   "region": "Mississauga",
+   "driver_name": "C. Dubois"
+  },
+  {
+   "vehicle_id": "TRK-201",
+   "make": "Hino",
+   "model": "195h",
+   "year": 2024,
+   "vehicle_type": "box_truck",
+   "region": "Scarborough",
+   "driver_name": "M. Singh"
+  },
+  {
+   "vehicle_id": "TRK-202",
+   "make": "Hino",
+   "model": "195h",
+   "year": 2022,
+   "vehicle_type": "box_truck",
+   "region": "Mississauga",
+   "driver_name": "N. Haddad"
+  },
+  {
+   "vehicle_id": "TRK-203",
+   "make": "Hino",
+   "model": "195h",
+   "year": 2020,
+   "vehicle_type": "box_truck",
+   "region": "Mississauga",
+   "driver_name": "B. Mensah"
+  },
+  {
+   "vehicle_id": "TRK-204",
+   "make": "Hino",
+   "model": "195h",
+   "year": 2020,
+   "vehicle_type": "box_truck",
+   "region": "North York",
+   "driver_name": "I. Novak"
+  },
+  {
+   "vehicle_id": "TRK-205",
+   "make": "Hino",
+   "model": "195h",
+   "year": 2024,
+   "vehicle_type": "box_truck",
+   "region": "Mississauga",
+   "driver_name": "H. Lindqvist"
+  },
+  {
+   "vehicle_id": "TRK-206",
+   "make": "Hino",
+   "model": "195h",
+   "year": 2022,
+   "vehicle_type": "box_truck",
+   "region": "Scarborough",
+   "driver_name": "K. Yamada"
+  },
+  {
+   "vehicle_id": "SDN-301",
+   "make": "Toyota",
+   "model": "Corolla",
+   "year": 2018,
+   "vehicle_type": "sedan",
+   "region": "Scarborough",
+   "driver_name": "W. Chen"
+  },
+  {
+   "vehicle_id": "SDN-302",
+   "make": "Toyota",
+   "model": "Corolla",
+   "year": 2022,
+   "vehicle_type": "sedan",
+   "region": "Mississauga",
+   "driver_name": "F. Janssen"
+  },
+  {
+   "vehicle_id": "SDN-303",
+   "make": "Toyota",
+   "model": "Corolla",
+   "year": 2022,
+   "vehicle_type": "sedan",
+   "region": "Mississauga",
+   "driver_name": "V. Petrov"
+  },
+  {
+   "vehicle_id": "SDN-304",
+   "make": "Toyota",
+   "model": "Corolla",
+   "year": 2024,
+   "vehicle_type": "sedan",
+   "region": "Scarborough",
+   "driver_name": "T. O'Brien"
+  },
+  {
+   "vehicle_id": "VAN-109",
+   "make": "Mercedes",
+   "model": "Sprinter 2500",
+   "year": 2024,
+   "vehicle_type": "cargo_van",
+   "region": "North York",
+   "driver_name": "E. Castillo"
+  },
+  {
+   "vehicle_id": "VAN-110",
+   "make": "Mercedes",
+   "model": "Sprinter 2500",
+   "year": 2022,
+   "vehicle_type": "cargo_van",
+   "region": "Scarborough",
+   "driver_name": "J. Tremblay"
+  },
+  {
+   "vehicle_id": "VAN-111",
+   "make": "Mercedes",
+   "model": "Sprinter 2500",
+   "year": 2023,
+   "vehicle_type": "cargo_van",
+   "region": "Mississauga",
+   "driver_name": "D. Rossi"
+  },
+  {
+   "vehicle_id": "VAN-112",
+   "make": "Mercedes",
+   "model": "Sprinter 2500",
+   "year": 2019,
+   "vehicle_type": "cargo_van",
+   "region": "Downtown Toronto",
+   "driver_name": "Z. Karim"
+  }
+ ],
+ "fuel_efficiency": [
+  {
+   "vehicle_id": "TRK-203",
+   "vehicle_type": "box_truck",
+   "driver_name": "B. Mensah",
+   "litres_per_100km": 23.44,
+   "km_driven": 8363.0,
+   "fuel_l": 1959.9
+  },
+  {
+   "vehicle_id": "TRK-206",
+   "vehicle_type": "box_truck",
+   "driver_name": "K. Yamada",
+   "litres_per_100km": 22.88,
+   "km_driven": 9359.0,
+   "fuel_l": 2141.6
+  },
+  {
+   "vehicle_id": "TRK-205",
+   "vehicle_type": "box_truck",
+   "driver_name": "H. Lindqvist",
+   "litres_per_100km": 22.8,
+   "km_driven": 9467.0,
+   "fuel_l": 2158.7
+  },
+  {
+   "vehicle_id": "TRK-204",
+   "vehicle_type": "box_truck",
+   "driver_name": "I. Novak",
+   "litres_per_100km": 22.19,
+   "km_driven": 8825.0,
+   "fuel_l": 1958.6
+  },
+  {
+   "vehicle_id": "TRK-202",
+   "vehicle_type": "box_truck",
+   "driver_name": "N. Haddad",
+   "litres_per_100km": 21.31,
+   "km_driven": 8993.0,
+   "fuel_l": 1916.1
+  },
+  {
+   "vehicle_id": "TRK-201",
+   "vehicle_type": "box_truck",
+   "driver_name": "M. Singh",
+   "litres_per_100km": 21.26,
+   "km_driven": 8085.0,
+   "fuel_l": 1719.0
+  },
+  {
+   "vehicle_id": "VAN-111",
+   "vehicle_type": "cargo_van",
+   "driver_name": "D. Rossi",
+   "litres_per_100km": 20.57,
+   "km_driven": 8656.0,
+   "fuel_l": 1781.0
+  },
+  {
+   "vehicle_id": "VAN-103",
+   "vehicle_type": "cargo_van",
+   "driver_name": "A. Okafor",
+   "litres_per_100km": 16.54,
+   "km_driven": 10024.0,
+   "fuel_l": 1658.3
+  },
+  {
+   "vehicle_id": "VAN-109",
+   "vehicle_type": "cargo_van",
+   "driver_name": "E. Castillo",
+   "litres_per_100km": 15.1,
+   "km_driven": 8851.0,
+   "fuel_l": 1336.9
+  },
+  {
+   "vehicle_id": "VAN-107",
+   "vehicle_type": "cargo_van",
+   "driver_name": "S. Kowalski",
+   "litres_per_100km": 14.8,
+   "km_driven": 8411.0,
+   "fuel_l": 1245.2
+  },
+  {
+   "vehicle_id": "VAN-112",
+   "vehicle_type": "cargo_van",
+   "driver_name": "Z. Karim",
+   "litres_per_100km": 14.44,
+   "km_driven": 8205.0,
+   "fuel_l": 1185.1
+  },
+  {
+   "vehicle_id": "VAN-110",
+   "vehicle_type": "cargo_van",
+   "driver_name": "J. Tremblay",
+   "litres_per_100km": 14.3,
+   "km_driven": 8544.0,
+   "fuel_l": 1222.0
+  },
+  {
+   "vehicle_id": "VAN-102",
+   "vehicle_type": "cargo_van",
+   "driver_name": "P. Nguyen",
+   "litres_per_100km": 14.01,
+   "km_driven": 9253.0,
+   "fuel_l": 1296.7
+  },
+  {
+   "vehicle_id": "VAN-101",
+   "vehicle_type": "cargo_van",
+   "driver_name": "Y. Osei",
+   "litres_per_100km": 13.53,
+   "km_driven": 8986.0,
+   "fuel_l": 1215.7
+  },
+  {
+   "vehicle_id": "VAN-108",
+   "vehicle_type": "cargo_van",
+   "driver_name": "C. Dubois",
+   "litres_per_100km": 13.48,
+   "km_driven": 8670.0,
+   "fuel_l": 1168.4
+  },
+  {
+   "vehicle_id": "VAN-106",
+   "vehicle_type": "cargo_van",
+   "driver_name": "G. Almeida",
+   "litres_per_100km": 13.2,
+   "km_driven": 8577.0,
+   "fuel_l": 1131.8
+  },
+  {
+   "vehicle_id": "VAN-105",
+   "vehicle_type": "cargo_van",
+   "driver_name": "L. Fernandez",
+   "litres_per_100km": 12.83,
+   "km_driven": 8323.0,
+   "fuel_l": 1068.0
+  },
+  {
+   "vehicle_id": "VAN-104",
+   "vehicle_type": "cargo_van",
+   "driver_name": "R. Boateng",
+   "litres_per_100km": 12.5,
+   "km_driven": 8814.0,
+   "fuel_l": 1101.6
+  },
+  {
+   "vehicle_id": "SDN-303",
+   "vehicle_type": "sedan",
+   "driver_name": "V. Petrov",
+   "litres_per_100km": 8.56,
+   "km_driven": 7362.0,
+   "fuel_l": 630.0
+  },
+  {
+   "vehicle_id": "SDN-302",
+   "vehicle_type": "sedan",
+   "driver_name": "F. Janssen",
+   "litres_per_100km": 7.78,
+   "km_driven": 9291.0,
+   "fuel_l": 723.0
+  },
+  {
+   "vehicle_id": "SDN-304",
+   "vehicle_type": "sedan",
+   "driver_name": "T. O'Brien",
+   "litres_per_100km": 7.41,
+   "km_driven": 9097.0,
+   "fuel_l": 674.1
+  },
+  {
+   "vehicle_id": "SDN-301",
+   "vehicle_type": "sedan",
+   "driver_name": "W. Chen",
+   "litres_per_100km": 7.16,
+   "km_driven": 8803.0,
+   "fuel_l": 630.7
+  }
+ ],
+ "on_time_rate": [
+  {
+   "vehicle_id": "VAN-111",
+   "total": 101,
+   "on_time": 74,
+   "late": 10,
+   "failed": 17,
+   "on_time_pct": 73.3
+  },
+  {
+   "vehicle_id": "TRK-204",
+   "total": 85,
+   "on_time": 66,
+   "late": 10,
+   "failed": 9,
+   "on_time_pct": 77.6
+  },
+  {
+   "vehicle_id": "TRK-201",
+   "total": 95,
+   "on_time": 75,
+   "late": 10,
+   "failed": 10,
+   "on_time_pct": 78.9
+  },
+  {
+   "vehicle_id": "VAN-110",
+   "total": 100,
+   "on_time": 79,
+   "late": 18,
+   "failed": 3,
+   "on_time_pct": 79.0
+  },
+  {
+   "vehicle_id": "SDN-302",
+   "total": 60,
+   "on_time": 49,
+   "late": 9,
+   "failed": 2,
+   "on_time_pct": 81.7
+  },
+  {
+   "vehicle_id": "VAN-106",
+   "total": 96,
+   "on_time": 80,
+   "late": 11,
+   "failed": 5,
+   "on_time_pct": 83.3
+  },
+  {
+   "vehicle_id": "VAN-102",
+   "total": 85,
+   "on_time": 71,
+   "late": 7,
+   "failed": 7,
+   "on_time_pct": 83.5
+  },
+  {
+   "vehicle_id": "SDN-304",
+   "total": 58,
+   "on_time": 49,
+   "late": 7,
+   "failed": 2,
+   "on_time_pct": 84.5
+  },
+  {
+   "vehicle_id": "VAN-103",
+   "total": 104,
+   "on_time": 88,
+   "late": 10,
+   "failed": 6,
+   "on_time_pct": 84.6
+  },
+  {
+   "vehicle_id": "VAN-109",
+   "total": 99,
+   "on_time": 84,
+   "late": 7,
+   "failed": 8,
+   "on_time_pct": 84.8
+  },
+  {
+   "vehicle_id": "TRK-203",
+   "total": 88,
+   "on_time": 75,
+   "late": 13,
+   "failed": 0,
+   "on_time_pct": 85.2
+  },
+  {
+   "vehicle_id": "SDN-303",
+   "total": 56,
+   "on_time": 48,
+   "late": 7,
+   "failed": 1,
+   "on_time_pct": 85.7
+  },
+  {
+   "vehicle_id": "VAN-112",
+   "total": 99,
+   "on_time": 85,
+   "late": 8,
+   "failed": 6,
+   "on_time_pct": 85.9
+  },
+  {
+   "vehicle_id": "TRK-206",
+   "total": 100,
+   "on_time": 87,
+   "late": 13,
+   "failed": 0,
+   "on_time_pct": 87.0
+  },
+  {
+   "vehicle_id": "VAN-104",
+   "total": 95,
+   "on_time": 83,
+   "late": 9,
+   "failed": 3,
+   "on_time_pct": 87.4
+  },
+  {
+   "vehicle_id": "TRK-205",
+   "total": 101,
+   "on_time": 89,
+   "late": 9,
+   "failed": 3,
+   "on_time_pct": 88.1
+  },
+  {
+   "vehicle_id": "VAN-105",
+   "total": 97,
+   "on_time": 86,
+   "late": 11,
+   "failed": 0,
+   "on_time_pct": 88.7
+  },
+  {
+   "vehicle_id": "VAN-107",
+   "total": 97,
+   "on_time": 86,
+   "late": 7,
+   "failed": 4,
+   "on_time_pct": 88.7
+  },
+  {
+   "vehicle_id": "VAN-101",
+   "total": 105,
+   "on_time": 95,
+   "late": 8,
+   "failed": 2,
+   "on_time_pct": 90.5
+  },
+  {
+   "vehicle_id": "SDN-301",
+   "total": 59,
+   "on_time": 55,
+   "late": 3,
+   "failed": 1,
+   "on_time_pct": 93.2
+  },
+  {
+   "vehicle_id": "TRK-202",
+   "total": 109,
+   "on_time": 103,
+   "late": 6,
+   "failed": 0,
+   "on_time_pct": 94.5
+  },
+  {
+   "vehicle_id": "VAN-108",
+   "total": 94,
+   "on_time": 89,
+   "late": 4,
+   "failed": 1,
+   "on_time_pct": 94.7
+  }
+ ],
+ "idle_share": [
+  {
+   "vehicle_id": "VAN-108",
+   "idle_min": 3613.0,
+   "shift_min": 13050,
+   "idle_pct": 27.7
+  },
+  {
+   "vehicle_id": "VAN-103",
+   "idle_min": 3569.0,
+   "shift_min": 14040,
+   "idle_pct": 25.4
+  },
+  {
+   "vehicle_id": "VAN-105",
+   "idle_min": 2857.0,
+   "shift_min": 12420,
+   "idle_pct": 23.0
+  },
+  {
+   "vehicle_id": "VAN-111",
+   "idle_min": 2768.0,
+   "shift_min": 12330,
+   "idle_pct": 22.5
+  },
+  {
+   "vehicle_id": "VAN-107",
+   "idle_min": 2736.0,
+   "shift_min": 12270,
+   "idle_pct": 22.3
+  },
+  {
+   "vehicle_id": "VAN-106",
+   "idle_min": 2791.0,
+   "shift_min": 12600,
+   "idle_pct": 22.2
+  },
+  {
+   "vehicle_id": "SDN-302",
+   "idle_min": 2914.0,
+   "shift_min": 13530,
+   "idle_pct": 21.5
+  },
+  {
+   "vehicle_id": "VAN-112",
+   "idle_min": 2726.0,
+   "shift_min": 12840,
+   "idle_pct": 21.2
+  },
+  {
+   "vehicle_id": "TRK-203",
+   "idle_min": 2331.0,
+   "shift_min": 11610,
+   "idle_pct": 20.1
+  },
+  {
+   "vehicle_id": "SDN-303",
+   "idle_min": 2266.0,
+   "shift_min": 11250,
+   "idle_pct": 20.1
+  },
+  {
+   "vehicle_id": "TRK-202",
+   "idle_min": 2630.0,
+   "shift_min": 13410,
+   "idle_pct": 19.6
+  },
+  {
+   "vehicle_id": "TRK-205",
+   "idle_min": 2405.0,
+   "shift_min": 13470,
+   "idle_pct": 17.9
+  },
+  {
+   "vehicle_id": "VAN-102",
+   "idle_min": 2131.0,
+   "shift_min": 12870,
+   "idle_pct": 16.6
+  },
+  {
+   "vehicle_id": "VAN-104",
+   "idle_min": 1953.0,
+   "shift_min": 12660,
+   "idle_pct": 15.4
+  },
+  {
+   "vehicle_id": "SDN-304",
+   "idle_min": 1933.0,
+   "shift_min": 13110,
+   "idle_pct": 14.7
+  },
+  {
+   "vehicle_id": "VAN-101",
+   "idle_min": 1854.0,
+   "shift_min": 13020,
+   "idle_pct": 14.2
+  },
+  {
+   "vehicle_id": "VAN-110",
+   "idle_min": 1807.0,
+   "shift_min": 12870,
+   "idle_pct": 14.0
+  },
+  {
+   "vehicle_id": "VAN-109",
+   "idle_min": 1718.0,
+   "shift_min": 13020,
+   "idle_pct": 13.2
+  },
+  {
+   "vehicle_id": "TRK-204",
+   "idle_min": 1494.0,
+   "shift_min": 12120,
+   "idle_pct": 12.3
+  },
+  {
+   "vehicle_id": "TRK-206",
+   "idle_min": 1697.0,
+   "shift_min": 13890,
+   "idle_pct": 12.2
+  },
+  {
+   "vehicle_id": "TRK-201",
+   "idle_min": 1400.0,
+   "shift_min": 12240,
+   "idle_pct": 11.4
+  },
+  {
+   "vehicle_id": "SDN-301",
+   "idle_min": 1410.0,
+   "shift_min": 13320,
+   "idle_pct": 10.6
+  }
+ ],
+ "daily_trend": [
+  {
+   "day": "2026-05-13",
+   "fuel_l": 972.6,
+   "avg_temp_c": 91.0,
+   "active_vehicles": 21,
+   "idle_hours": 28.1
+  },
+  {
+   "day": "2026-05-14",
+   "fuel_l": 1019.3,
+   "avg_temp_c": 91.3,
+   "active_vehicles": 20,
+   "idle_hours": 27.7
+  },
+  {
+   "day": "2026-05-15",
+   "fuel_l": 1093.7,
+   "avg_temp_c": 91.0,
+   "active_vehicles": 19,
+   "idle_hours": 27.1
+  },
+  {
+   "day": "2026-05-16",
+   "fuel_l": 1054.3,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 21,
+   "idle_hours": 30.7
+  },
+  {
+   "day": "2026-05-17",
+   "fuel_l": 1050.1,
+   "avg_temp_c": 91.2,
+   "active_vehicles": 21,
+   "idle_hours": 30.2
+  },
+  {
+   "day": "2026-05-18",
+   "fuel_l": 1025.7,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 21,
+   "idle_hours": 29.7
+  },
+  {
+   "day": "2026-05-19",
+   "fuel_l": 825.1,
+   "avg_temp_c": 91.3,
+   "active_vehicles": 18,
+   "idle_hours": 25.1
+  },
+  {
+   "day": "2026-05-20",
+   "fuel_l": 1060.7,
+   "avg_temp_c": 91.3,
+   "active_vehicles": 21,
+   "idle_hours": 31.4
+  },
+  {
+   "day": "2026-05-21",
+   "fuel_l": 935.5,
+   "avg_temp_c": 90.8,
+   "active_vehicles": 18,
+   "idle_hours": 25.6
+  },
+  {
+   "day": "2026-05-22",
+   "fuel_l": 975.6,
+   "avg_temp_c": 91.2,
+   "active_vehicles": 21,
+   "idle_hours": 27.3
+  },
+  {
+   "day": "2026-05-23",
+   "fuel_l": 907.1,
+   "avg_temp_c": 91.3,
+   "active_vehicles": 19,
+   "idle_hours": 24.0
+  },
+  {
+   "day": "2026-05-24",
+   "fuel_l": 1035.8,
+   "avg_temp_c": 91.3,
+   "active_vehicles": 20,
+   "idle_hours": 28.6
+  },
+  {
+   "day": "2026-05-25",
+   "fuel_l": 1121.0,
+   "avg_temp_c": 91.2,
+   "active_vehicles": 21,
+   "idle_hours": 32.0
+  },
+  {
+   "day": "2026-05-26",
+   "fuel_l": 959.1,
+   "avg_temp_c": 90.8,
+   "active_vehicles": 20,
+   "idle_hours": 27.1
+  },
+  {
+   "day": "2026-05-27",
+   "fuel_l": 1026.9,
+   "avg_temp_c": 90.6,
+   "active_vehicles": 21,
+   "idle_hours": 30.5
+  },
+  {
+   "day": "2026-05-28",
+   "fuel_l": 1018.5,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 20,
+   "idle_hours": 30.4
+  },
+  {
+   "day": "2026-05-29",
+   "fuel_l": 1035.0,
+   "avg_temp_c": 91.5,
+   "active_vehicles": 19,
+   "idle_hours": 28.6
+  },
+  {
+   "day": "2026-05-30",
+   "fuel_l": 959.9,
+   "avg_temp_c": 91.0,
+   "active_vehicles": 20,
+   "idle_hours": 26.7
+  },
+  {
+   "day": "2026-05-31",
+   "fuel_l": 869.0,
+   "avg_temp_c": 91.3,
+   "active_vehicles": 19,
+   "idle_hours": 26.2
+  },
+  {
+   "day": "2026-06-01",
+   "fuel_l": 955.5,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 20,
+   "idle_hours": 29.4
+  },
+  {
+   "day": "2026-06-02",
+   "fuel_l": 1047.1,
+   "avg_temp_c": 91.0,
+   "active_vehicles": 21,
+   "idle_hours": 29.9
+  },
+  {
+   "day": "2026-06-03",
+   "fuel_l": 1022.9,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 20,
+   "idle_hours": 27.2
+  },
+  {
+   "day": "2026-06-04",
+   "fuel_l": 1013.4,
+   "avg_temp_c": 90.8,
+   "active_vehicles": 20,
+   "idle_hours": 27.7
+  },
+  {
+   "day": "2026-06-05",
+   "fuel_l": 957.2,
+   "avg_temp_c": 91.6,
+   "active_vehicles": 19,
+   "idle_hours": 27.4
+  },
+  {
+   "day": "2026-06-06",
+   "fuel_l": 1004.2,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 21,
+   "idle_hours": 29.4
+  },
+  {
+   "day": "2026-06-07",
+   "fuel_l": 993.4,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 22,
+   "idle_hours": 30.4
+  },
+  {
+   "day": "2026-06-08",
+   "fuel_l": 985.9,
+   "avg_temp_c": 90.4,
+   "active_vehicles": 19,
+   "idle_hours": 27.0
+  },
+  {
+   "day": "2026-06-09",
+   "fuel_l": 1016.2,
+   "avg_temp_c": 91.3,
+   "active_vehicles": 20,
+   "idle_hours": 29.0
+  },
+  {
+   "day": "2026-06-10",
+   "fuel_l": 1015.4,
+   "avg_temp_c": 91.1,
+   "active_vehicles": 21,
+   "idle_hours": 27.8
+  },
+  {
+   "day": "2026-06-11",
+   "fuel_l": 966.1,
+   "avg_temp_c": 91.0,
+   "active_vehicles": 20,
+   "idle_hours": 27.7
+  }
+ ],
+ "engine_anomalies": [
+  {
+   "vehicle_id": "VAN-103",
+   "avg_temp_c": 101.1,
+   "fleet_avg_c": 91.0,
+   "z_score": 2.97
+  },
+  {
+   "vehicle_id": "VAN-111",
+   "avg_temp_c": 99.3,
+   "fleet_avg_c": 91.0,
+   "z_score": 2.44
+  }
+ ],
+ "maintenance_cost": [
+  {
+   "vehicle_id": "VAN-110",
+   "vehicle": "Mercedes Sprinter 2500",
+   "events": 3,
+   "total_cost_cad": 4636.64,
+   "downtime_h": 59.0
+  },
+  {
+   "vehicle_id": "TRK-206",
+   "vehicle": "Hino 195h",
+   "events": 3,
+   "total_cost_cad": 4063.55,
+   "downtime_h": 55.5
+  },
+  {
+   "vehicle_id": "VAN-101",
+   "vehicle": "Ford Transit 250",
+   "events": 3,
+   "total_cost_cad": 3106.34,
+   "downtime_h": 42.0
+  },
+  {
+   "vehicle_id": "VAN-112",
+   "vehicle": "Mercedes Sprinter 2500",
+   "events": 3,
+   "total_cost_cad": 2457.46,
+   "downtime_h": 38.3
+  },
+  {
+   "vehicle_id": "SDN-301",
+   "vehicle": "Toyota Corolla",
+   "events": 2,
+   "total_cost_cad": 2091.18,
+   "downtime_h": 23.8
+  },
+  {
+   "vehicle_id": "SDN-304",
+   "vehicle": "Toyota Corolla",
+   "events": 3,
+   "total_cost_cad": 2083.21,
+   "downtime_h": 30.0
+  },
+  {
+   "vehicle_id": "VAN-102",
+   "vehicle": "Ford Transit 250",
+   "events": 1,
+   "total_cost_cad": 2029.53,
+   "downtime_h": 21.8
+  },
+  {
+   "vehicle_id": "TRK-203",
+   "vehicle": "Hino 195h",
+   "events": 3,
+   "total_cost_cad": 1868.21,
+   "downtime_h": 39.1
+  },
+  {
+   "vehicle_id": "TRK-201",
+   "vehicle": "Hino 195h",
+   "events": 3,
+   "total_cost_cad": 779.57,
+   "downtime_h": 10.1
+  },
+  {
+   "vehicle_id": "SDN-302",
+   "vehicle": "Toyota Corolla",
+   "events": 2,
+   "total_cost_cad": 558.69,
+   "downtime_h": 8.1
+  },
+  {
+   "vehicle_id": "VAN-108",
+   "vehicle": "Ford Transit 250",
+   "events": 1,
+   "total_cost_cad": 552.85,
+   "downtime_h": 5.9
+  },
+  {
+   "vehicle_id": "TRK-202",
+   "vehicle": "Hino 195h",
+   "events": 1,
+   "total_cost_cad": 536.8,
+   "downtime_h": 4.8
+  },
+  {
+   "vehicle_id": "SDN-303",
+   "vehicle": "Toyota Corolla",
+   "events": 1,
+   "total_cost_cad": 526.36,
+   "downtime_h": 6.5
+  },
+  {
+   "vehicle_id": "VAN-105",
+   "vehicle": "Ford Transit 250",
+   "events": 2,
+   "total_cost_cad": 521.74,
+   "downtime_h": 6.5
+  },
+  {
+   "vehicle_id": "VAN-104",
+   "vehicle": "Ford Transit 250",
+   "events": 2,
+   "total_cost_cad": 515.31,
+   "downtime_h": 7.3
+  },
+  {
+   "vehicle_id": "VAN-107",
+   "vehicle": "Ford Transit 250",
+   "events": 1,
+   "total_cost_cad": 491.62,
+   "downtime_h": 4.6
+  },
+  {
+   "vehicle_id": "VAN-103",
+   "vehicle": "Ford Transit 250",
+   "events": 3,
+   "total_cost_cad": 344.5,
+   "downtime_h": 5.8
+  },
+  {
+   "vehicle_id": "TRK-204",
+   "vehicle": "Hino 195h",
+   "events": 0,
+   "total_cost_cad": null,
+   "downtime_h": null
+  },
+  {
+   "vehicle_id": "TRK-205",
+   "vehicle": "Hino 195h",
+   "events": 0,
+   "total_cost_cad": null,
+   "downtime_h": null
+  },
+  {
+   "vehicle_id": "VAN-106",
+   "vehicle": "Ford Transit 250",
+   "events": 0,
+   "total_cost_cad": null,
+   "downtime_h": null
+  },
+  {
+   "vehicle_id": "VAN-109",
+   "vehicle": "Mercedes Sprinter 2500",
+   "events": 0,
+   "total_cost_cad": null,
+   "downtime_h": null
+  },
+  {
+   "vehicle_id": "VAN-111",
+   "vehicle": "Mercedes Sprinter 2500",
+   "events": 0,
+   "total_cost_cad": null,
+   "downtime_h": null
+  }
+ ],
+ "region_performance": [
+  {
+   "region": "Mississauga",
+   "vehicles": 10,
+   "on_time_pct": 86.9,
+   "deliveries": 907
+  },
+  {
+   "region": "Downtown Toronto",
+   "vehicles": 2,
+   "on_time_pct": 84.8,
+   "deliveries": 184
+  },
+  {
+   "region": "Scarborough",
+   "vehicles": 7,
+   "on_time_pct": 84.7,
+   "deliveries": 613
+  },
+  {
+   "region": "North York",
+   "vehicles": 3,
+   "on_time_pct": 83.5,
+   "deliveries": 279
+  }
+ ]
+}
