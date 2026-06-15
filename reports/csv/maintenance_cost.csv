@@ -1,0 +1,23 @@
+vehicle_id,vehicle,events,total_cost_cad,downtime_h
+VAN-110,Mercedes Sprinter 2500,3,4636.64,59.0
+TRK-206,Hino 195h,3,4063.55,55.5
+VAN-101,Ford Transit 250,3,3106.34,42.0
+VAN-112,Mercedes Sprinter 2500,3,2457.46,38.3
+SDN-301,Toyota Corolla,2,2091.18,23.8
+SDN-304,Toyota Corolla,3,2083.21,30.0
+VAN-102,Ford Transit 250,1,2029.53,21.8
+TRK-203,Hino 195h,3,1868.21,39.1
+TRK-201,Hino 195h,3,779.57,10.1
+SDN-302,Toyota Corolla,2,558.69,8.1
+VAN-108,Ford Transit 250,1,552.85,5.9
+TRK-202,Hino 195h,1,536.8,4.8
+SDN-303,Toyota Corolla,1,526.36,6.5
+VAN-105,Ford Transit 250,2,521.74,6.5
+VAN-104,Ford Transit 250,2,515.31,7.3
+VAN-107,Ford Transit 250,1,491.62,4.6
+VAN-103,Ford Transit 250,3,344.5,5.8
+TRK-204,Hino 195h,0,,
+TRK-205,Hino 195h,0,,
+VAN-106,Ford Transit 250,0,,
+VAN-109,Mercedes Sprinter 2500,0,,
+VAN-111,Mercedes Sprinter 2500,0,,
