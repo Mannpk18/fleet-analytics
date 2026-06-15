@@ -1,0 +1,23 @@
+vehicle_id,vehicle_type,driver_name,litres_per_100km,km_driven,fuel_l
+TRK-203,box_truck,B. Mensah,23.44,8363.0,1959.9
+TRK-206,box_truck,K. Yamada,22.88,9359.0,2141.6
+TRK-205,box_truck,H. Lindqvist,22.8,9467.0,2158.7
+TRK-204,box_truck,I. Novak,22.19,8825.0,1958.6
+TRK-202,box_truck,N. Haddad,21.31,8993.0,1916.1
+TRK-201,box_truck,M. Singh,21.26,8085.0,1719.0
+VAN-111,cargo_van,D. Rossi,20.57,8656.0,1781.0
+VAN-103,cargo_van,A. Okafor,16.54,10024.0,1658.3
+VAN-109,cargo_van,E. Castillo,15.1,8851.0,1336.9
+VAN-107,cargo_van,S. Kowalski,14.8,8411.0,1245.2
+VAN-112,cargo_van,Z. Karim,14.44,8205.0,1185.1
+VAN-110,cargo_van,J. Tremblay,14.3,8544.0,1222.0
+VAN-102,cargo_van,P. Nguyen,14.01,9253.0,1296.7
+VAN-101,cargo_van,Y. Osei,13.53,8986.0,1215.7
+VAN-108,cargo_van,C. Dubois,13.48,8670.0,1168.4
+VAN-106,cargo_van,G. Almeida,13.2,8577.0,1131.8
+VAN-105,cargo_van,L. Fernandez,12.83,8323.0,1068.0
+VAN-104,cargo_van,R. Boateng,12.5,8814.0,1101.6
+SDN-303,sedan,V. Petrov,8.56,7362.0,630.0
+SDN-302,sedan,F. Janssen,7.78,9291.0,723.0
+SDN-304,sedan,T. O'Brien,7.41,9097.0,674.1
+SDN-301,sedan,W. Chen,7.16,8803.0,630.7
